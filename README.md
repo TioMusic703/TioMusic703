@@ -1,4 +1,4 @@
-### Hi there, I'm Friday - aka [Friday.su][website] 👋
+### Hi there, I'm Friday - aka [Azis.exe][website] 👋
 
 
 ## I'm a Student, Youtuber, and a Developer!!
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![](https://discord.c99.nl/widget/theme-4/1226523294774071346.png)](https://discord.gg/D8haFzAsJP)
+[![](https://discord.c99.nl/widget/theme-4/1203605618745933880.png)](https://discord.gg/zPjH55uCYt)
 
 [<img align="left" alt="cws | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
 [<img align="left" alt="cws | Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />][instagram]
